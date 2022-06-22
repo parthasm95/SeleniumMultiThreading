@@ -29,5 +29,11 @@ public class BasePage {
 		return driver;
 		
 	}
+	
+	public void test() {
+		System.out.println("remote test method...");
+		
+	}
+
 
 }
